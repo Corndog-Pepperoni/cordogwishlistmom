@@ -59,7 +59,7 @@ section {
 }
 
 .container {
-    width: 70%;
+    width: 75%;
     margin-left: auto;
     margin-right: auto;
     display: flex;
@@ -70,7 +70,7 @@ section {
 }
 
 .clothing-container {
-    width: 70%;
+    width: 75%;
     margin-left: auto;
     margin-right: auto;
     display: flex;
@@ -81,7 +81,7 @@ section {
 }
 
 .fpv-container {
-    width: 70%;
+    width: 75%;
     margin-left: auto;
     margin-right: auto;
     display: flex;
